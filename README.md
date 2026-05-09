@@ -3,4 +3,4 @@ Terminal Based Tic Tac Toe game built in C++ with the option to play Player vs. 
 
 Use the Makefile to compile the code 
 
-\n./game to execute
+./game to execute
